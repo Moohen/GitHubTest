@@ -7,6 +7,8 @@ public class Main {
 
         test = "Dlaczego zapisuje mi z innego konta?";
         System.out.println(test);
+        System.out.println(test + " " + test);
+
 
     }
 }
